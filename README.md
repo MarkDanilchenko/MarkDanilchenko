@@ -26,9 +26,7 @@
         <h3>&#128202; Different stats:</h3>
         <div><a href="https://www.codewars.com/users/js__Mark__ts"><img src="https://www.codewars.com/users/js__Mark__ts/badges/small" alt="Codewars profile" /></a></div>
         <br/>
-        <div><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=MarkDanilchenko" alt="GitHub Streak" /></a></div>
-        <br/>
-        <div><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MarkDanilchenko&theme=github-compact&color=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=My contribution activity" alt="Contribution activity graph" /></a></div>
-        <br/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarkDanilchenko)](https://github.com/ashutosh00710/github-readme-activity-graph)
     </div>
 </div>
