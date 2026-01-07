@@ -25,8 +25,7 @@
     <div id="stats" align="start">
         <h3>&#128202; Different stats:</h3>
         <div><a href="https://www.codewars.com/users/js__Mark__ts"><img src="https://www.codewars.com/users/js__Mark__ts/badges/small" alt="Codewars profile" /></a></div>
-        <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarkDanilchenko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mark Danilchenko's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarkDanilchenko&theme=github-compact&color=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=My%20contribution%20activity)]()
     </div>
 </div>
