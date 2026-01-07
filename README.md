@@ -1,16 +1,11 @@
-## Hi there 👋
+<div>
+    <section class="greeting" style="text-align: center;">
+        <h2>Hi there, 👋<br> I'm Mark Danilchenko</h2>
+        <p>Backend NodeJS Developer</p>
+        <p>Interested in JavaScript/TypeScript and definitely enjoying doing cool things with Node.js &#128521;</p>
+    </section>
+    <section class="streak-stats" style="text-align: center;">
+        [![GitHub Streak](https://streak-stats.demolab.com/?user=MarkDanilchenko)](https://git.io/streak-stats)
+    </section>
 
-<!--
-**MarkDanilchenko/MarkDanilchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
