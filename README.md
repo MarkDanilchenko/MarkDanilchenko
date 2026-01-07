@@ -5,7 +5,6 @@
         <a href="https://github.com/MarkDanilchenko"><img src="https://komarev.com/ghpvc/?username=MarkDanilchenko&color=brightgreen&style=for-the-badge&abbreviated=true" alt="GitHub profile views"></a>
     </div>
     <br>
-    <hr/>
     <div id="about-me" align="start">
         <h3>&#128104;&#8205;&#128187; About me:</h3>
         <p>I'm interested in building web applications using JS / TS and definitely enjoying doing cool things with Node.js</p>
