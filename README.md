@@ -29,8 +29,8 @@
         <h3>&#128202; Different stats:</h3>
 <div>
 
-[![Mark Danilchenko's gitHub streak](https://streak-stats.demolab.com/?user=MarkDanilchenko)]()
-[![Mark Danilchenko's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarkDanilchenko&theme=github-compact&color=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=My%20contribution%20activity)]()
+[![Mark Danilchenko's GitHub streak](https://streak-stats.demolab.com/?user=MarkDanilchenko)]()
+[![Mark Danilchenko's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarkDanilchenko&theme=github-compact&color=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=My%20contribution%20activity)]()
 </div>
     </div>
 </div>
