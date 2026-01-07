@@ -3,12 +3,33 @@
         <h2>Hi there, 👋<br> I'm Mark Danilchenko</h2>
         <p>Backend NodeJS Developer</p>
         <a href="https://github.com/MarkDanilchenko"><img src="https://komarev.com/ghpvc/?username=MarkDanilchenko&color=brightgreen&style=for-the-badge&abbreviated=true" alt="GitHub profile views"></a>
-        <p>I'm interested in JavaScript/TypeScript and definitely enjoying doing cool things with Node.js &#128521;</p>
     </div>
+    <br>
     <hr/>
-    <div id="stats">
+    <div id="about-me" align="start">
+        <h3>&#128104;&#8205;&#128187; About me:</h3>
+        <p>I'm interested in building web applications using JS / TS and definitely enjoying doing cool things with Node.js</p>
+        <h3>Familiar tools &#10549;</h3>
+        <div>
+            <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+            <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+            <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+            <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
+            <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+            <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+            <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="ExpressJS">
+            <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="VueJS">
+            <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+            <span>... and others &#128521;</span>
+        </div>
+    </div>
+    <div id="stats" align="start">
+        <h3>&#128202; Different stats:</h3>
         <div><a href="https://www.codewars.com/users/js__Mark__ts"><img src="https://www.codewars.com/users/js__Mark__ts/badges/small" alt="Codewars profile" /></a></div>
         <br/>
+        <div><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=MarkDanilchenko" alt="GitHub Streak" /></a></div>
+        <br/>
         <div><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MarkDanilchenko&theme=github-compact&color=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=My contribution activity" alt="Contribution activity graph" /></a></div>
+        <br/>
     </div>
 </div>
