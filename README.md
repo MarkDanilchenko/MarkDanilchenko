@@ -6,12 +6,12 @@
     </div>
     <br>
     <div id="about-me" align="start">
-        <h3>&#128104;&#8205;&#128187; About me:</h3>
+        <h3>&#128104;&#8205;&#128187; About me</h3>
         <p>I'm interested in building web applications using JS / TS and definitely enjoying doing cool things with Node.js. <br><br>
         Like both to solve tasks on <span><a href="https://www.codewars.com/users/js__Mark__ts"><img src="https://www.codewars.com/users/js__Mark__ts/badges/small" alt="Codewars profile" /></a></span> and reading it-books. <br><br>
         Currently working on my own project: <span><a href="https://github.com/MarkDanilchenko/LightweightProject" target="_blank">LightweightProject</a></span>
         </p>
-        <h3>Familiar tools &#10549;</h3>
+        <h3>&#128295; Familiar tools</h3>
         <div>
             <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
             <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
@@ -25,11 +25,11 @@
             <span>... and others &#128521;</span>
         </div>
     </div>
-    <div id="stats">
+    <div id="stats" align="start">
         <h3>&#128202; Different stats:</h3>
 <div>
 
-[![Mark Danilchenko's GitHub streak](https://streak-stats.demolab.com/?user=MarkDanilchenko)]()
+[![Mark Danilchenko's GitHub streak](https://streak-stats.demolab.com?user=MarkDanilchenko&theme=shadow-green)]()
 [![Mark Danilchenko's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarkDanilchenko&theme=github-compact&color=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=My%20contribution%20activity)]()
 </div>
     </div>
