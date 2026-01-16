@@ -7,8 +7,7 @@
     <br>
     <div id="about-me" align="start">
         <h3>&#128104;&#8205;&#128187; About me</h3>
-        <p>I'm interested in building web applications using JS / TS and definitely enjoying doing cool things with Node.js. <br><br>
-        Like both to solve tasks on <span><a href="https://www.codewars.com/users/js__Mark__ts"><img src="https://www.codewars.com/users/js__Mark__ts/badges/small" alt="Codewars profile" /></a></span> and reading it-books. <br><br>
+        <p>I'm interested in building web applications using <i>JS / TS</i> and definitely enjoying doing cool things with Node.js. <br><br>
         Currently working on my own project: <span><a href="https://github.com/MarkDanilchenko/LightweightProject" target="_blank">LightweightProject</a></span>
         </p>
         <h3>&#128295; Familiar tools</h3>
@@ -28,6 +27,7 @@
     <div id="stats" align="start">
         <h3>&#128202; Different stats:</h3>
         <div>
+            <a href="https://www.codewars.com/users/js__Mark__ts"><img src="https://www.codewars.com/users/js__Mark__ts/badges/small" alt="Codewars profile" /></a>
 
 [![Mark Danilchenko's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarkDanilchenko&theme=github-compact&color=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=My%20contribution%20activity)]()
         </div>
